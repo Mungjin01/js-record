@@ -27,6 +27,7 @@
 - [콜백 함수는 함수다](https://www.notion.so/mungjin/4-3-0c753bdff98c49918351b8e108be609b?pvs=4)
 - [콜백 함수 내부의 this에 다른 값 바인딩](https://www.notion.so/mungjin/4-4-this-23b4d72ddce54033841fcb74d72890d9)
 - [콜백 지옥과 비동기 제어](https://www.notion.so/mungjin/4-5-5dc416ecf71846399a40d8053c4f92a5?pvs=4)
+- [async / await](https://mungjin.notion.site/async-await-e21721fc67dd4069a2512cff58fab211?pvs=4)
 
  #### 5장 클로저
 
